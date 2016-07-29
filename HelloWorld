@@ -1,0 +1,3 @@
+def hello (gloop):
+    for gloop in gloops:
+        print "Hello Galaxy! My Name is Commander Shepherd."
